@@ -1,0 +1,10 @@
+Category,Protocol,Smart Contract Name,Repo Link,Smart Contract Address
+DeFi;Collateralized Debt Position (CDP),MakerDAO,MakerDAO,https://github.com/makerdao/dss/blob/master/src/vat.sol,0x35D1b3F3D7966A1DFe207aa4514C12a259A0492B
+,,,https://github.com/makerdao/dss/blob/master/src/spot.sol,0x65C79fcB50Ca1594B025960e539eD7A9a6D434A3
+,,,https://github.com/makerdao/dss/blob/master/src/join.sol,0x2F0b23f53734252Bda2277357e97e1517d6B042A
+,,,https://github.com/makerdao/dss/blob/master/src/clip.sol,0x135954d155898D42C90D2a57824C690e0c7BEf1B
+DeFi;Staking/Lending,AAVE,AAVE-V2,https://github.com/aave/protocol-v2/blob/1.0/contracts/protocol/configuration/LendingPoolAddressesProvider.sol,0xB53C1a33016B2DC2fF3653530bfF1848a515c8c5
+,,,https://github.com/aave/protocol-v2/blob/1.0/contracts/protocol/configuration/LendingPoolAddressesProviderRegistry.sol,0x52D306e36E3B6B02c153d0266ff0f85d18BCD413
+,,,https://github.com/aave/protocol-v2/blob/1.0/contracts/protocol/lendingpool/LendingPool.sol,0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9
+,,,https://github.com/aave/protocol-v2/blob/1.0/contracts/protocol/lendingpool/LendingPoolCollateralManager.sol,0xbd4765210d4167CE2A5b87280D9E8Ee316D5EC7C
+,,,https://github.com/aave/protocol-v2/blob/1.0/contracts/protocol/lendingpool/LendingPoolConfigurator.sol,0x311Bb771e4F8952E6Da169b425E7e92d6Ac45756
